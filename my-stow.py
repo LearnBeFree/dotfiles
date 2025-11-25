@@ -1,3 +1,7 @@
+"""
+The idea of this project was to make it easy to manage dotfiles across several devices.
+SEE saber/other for detailed info!
+"""
 import os
 
 DOTFILESDIR = os.path.expandvars("$HOME/.dotfiles")
